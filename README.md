@@ -20,7 +20,7 @@ Important notes:
  
 3. Unzip Compressed folder to your desktop.
   -----
- -  You can now open the ###### Arduino 1.6.9.exe.
+ -  You can now open the ###### Arduino 1.6.9.exe to program your gizDuino.
 
 
 - For Technical Support, Kindly email us at <egizmo.technical@gmail.com>
